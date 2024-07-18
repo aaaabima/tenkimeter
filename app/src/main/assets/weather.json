@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": 106.7875,
+    "lat": -6.2018
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.1,
+    "feels_like": 305.23,
+    "temp_min": 300.88,
+    "temp_max": 302.2,
+    "pressure": 1011,
+    "humidity": 67,
+    "sea_level": 1011,
+    "grnd_level": 1009
+  },
+  "visibility": 6000,
+  "wind": {
+    "speed": 4.63,
+    "deg": 70
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1721221882,
+  "sys": {
+    "type": 2,
+    "id": 2033644,
+    "country": "ID",
+    "sunrise": 1721171092,
+    "sunset": 1721213564
+  },
+  "timezone": 25200,
+  "id": 1993378,
+  "name": "Cideng",
+  "cod": 200
+}
