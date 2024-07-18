@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tenkimeter</string>
+    <string name="daily_historical_stats">Daily Historical Stats</string>
+    <string name="day">Day</string>
+    <string name="weather">Weather</string>
+    <string name="temperature">Temp.</string>
+    <string name="daily_temperature">%.2f °C</string>
 </resources>
